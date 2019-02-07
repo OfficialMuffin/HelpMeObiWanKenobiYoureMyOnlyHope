@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+# HelpMeObiWanKenobiYoureMyOnlyHope
+
+stringVar1 = "Hello There!"
+
+for i in stringVar1:
+    print(i)
